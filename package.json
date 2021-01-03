@@ -1,0 +1,25 @@
+{
+  "name": "arsenal-players-api",
+  "version": "1.0.0",
+  "description": "a super unnecessary api for arsenal players :)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedtalksbits/arsenal-players-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedtalksbits/arsenal-players-api/issues"
+  },
+  "homepage": "https://github.com/tedtalksbits/arsenal-players-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

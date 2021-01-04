@@ -8,9 +8,10 @@
          "birthdate": "1996-08-07",
          "nationality": "Spain",
          "shirt_number": 8,
-         "player_image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Dani_Ceballos.jpg",
+         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p182539.png",
          "on_loan": true,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇪🇸"
       },
       {
          "id": 110,
@@ -22,7 +23,8 @@
          "shirt_number": 18,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p167199.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇬🇭"
       },
       {
          "id": 137,
@@ -34,7 +36,8 @@
          "shirt_number": 5,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p39476.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇬🇷"
       },
       {
          "id": 3174,
@@ -46,7 +49,8 @@
          "shirt_number": 1,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p80201.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇩🇪"
       },
       {
          "id": 3180,
@@ -58,7 +62,8 @@
          "shirt_number": 10,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p37605.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇩🇪"
       },
       {
          "id": 3230,
@@ -70,7 +75,8 @@
          "shirt_number": 12,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p47431.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇧🇷"
       },
       {
          "id": 3244,
@@ -82,7 +88,8 @@
          "shirt_number": 17,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p58822.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇵🇹"
       },
       {
          "id": 3477,
@@ -94,7 +101,8 @@
          "shirt_number": 34,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p84450.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇨🇭"
       },
       {
          "id": 3755,
@@ -106,7 +114,8 @@
          "shirt_number": 25,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p153256.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇪🇬"
       },
       {
          "id": 3827,
@@ -118,7 +127,8 @@
          "shirt_number": 13,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p115918.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇮🇸"
       },
       {
          "id": 7647,
@@ -130,7 +140,8 @@
          "shirt_number": 22,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p92371.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇪🇸"
       },
       {
          "id": 7779,
@@ -142,7 +153,8 @@
          "shirt_number": 33,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p113534.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 7783,
@@ -154,7 +166,8 @@
          "shirt_number": 2,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p98745.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇪🇸"
       },
       {
          "id": 7784,
@@ -166,7 +179,8 @@
          "shirt_number": 16,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p156074.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 7785,
@@ -178,7 +192,8 @@
          "shirt_number": 20,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p69140.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇩🇪"
       },
       {
          "id": 7786,
@@ -190,7 +205,8 @@
          "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111457.png",
          "on_loan": true,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇩🇪"
       },
       {
          "id": 7787,
@@ -202,7 +218,8 @@
          "shirt_number": 21,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p101184.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 7792,
@@ -214,7 +231,8 @@
          "shirt_number": 15,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p154043.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 7797,
@@ -226,7 +244,8 @@
          "shirt_number": 9,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p59966.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇫🇷"
       },
       {
          "id": 7798,
@@ -238,7 +257,8 @@
          "shirt_number": 28,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200089.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 7799,
@@ -250,7 +270,8 @@
          "shirt_number": 24,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200641.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 7800,
@@ -262,7 +283,8 @@
          "shirt_number": 30,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p205533.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 7801,
@@ -274,7 +296,8 @@
          "shirt_number": 14,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p54694.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇬🇦"
       },
       {
          "id": 7805,
@@ -286,7 +309,8 @@
          "shirt_number": 23,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p41270.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇧🇷"
       },
       {
          "id": 8412,
@@ -294,23 +318,12 @@
          "last_name": "Pépé",
          "position": "Forward",
          "birthdate": "1995-05-29",
-         "nationality": "France",
+         "nationality": "Ivory Coast",
          "shirt_number": 19,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p195735.png",
          "on_loan": false,
-         "first_team": true
-      },
-      {
-         "id": 11619,
-         "first_name": "Arteta",
-         "last_name": "last_name",
-         "position": null,
-         "birthdate": "1982-03-26",
-         "nationality": "Spain",
-         "shirt_number": null,
-         "player_image": "",
-         "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇨🇮"
       },
       {
          "id": 15615,
@@ -322,7 +335,8 @@
          "shirt_number": 3,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p192895.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
       },
       {
          "id": 23128,
@@ -334,7 +348,8 @@
          "shirt_number": 6,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p226597.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇧🇷"
       },
       {
          "id": 61450,
@@ -346,7 +361,8 @@
          "shirt_number": 35,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444145.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇧🇷"
       },
       {
          "id": 80171,
@@ -358,7 +374,8 @@
          "shirt_number": 4,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p462424.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🇫🇷"
       },
       {
          "id": 85570,
@@ -370,7 +387,8 @@
          "shirt_number": 32,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209289.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 99813,
@@ -382,7 +400,8 @@
          "shirt_number": 7,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223340.png",
          "on_loan": false,
-         "first_team": true
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 131040,
@@ -394,7 +413,8 @@
          "shirt_number": null,
          "player_image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Balogun_1045x658_0.jpg?itok=5sG1axL9",
          "on_loan": false,
-         "first_team": false
+         "first_team": false,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 153843,
@@ -406,7 +426,8 @@
          "shirt_number": null,
          "player_image": "null",
          "on_loan": false,
-         "first_team": false
+         "first_team": false,
+         "flag": "🇪🇪"
       },
       {
          "id": 223003,
@@ -418,7 +439,8 @@
          "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p439482.png",
          "on_loan": false,
-         "first_team": false
+         "first_team": false,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 2299903,
@@ -430,7 +452,8 @@
          "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p235425.png",
          "on_loan": false,
-         "first_team": false
+         "first_team": false,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       }
    ]
 }

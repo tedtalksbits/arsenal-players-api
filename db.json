@@ -398,13 +398,13 @@
       },
       {
          "id": 153843,
-         "first_name": "Karl Jakob Hein",
-         "last_name": "last_name",
+         "first_name": "Karl",
+         "last_name": "Jakob Hein",
          "position": "Goalkeeper",
          "birthdate": "2002-04-13",
          "nationality": "Estonia",
          "shirt_number": null,
-         "player_image": "",
+         "player_image": "null",
          "on_loan": false,
          "first_team": false
       },

@@ -107,7 +107,7 @@
       {
          "id": 3755,
          "first_name": "Mohamed",
-         "last_name": "ElNeny",
+         "last_name": "Elneny",
          "position": "Midfielder",
          "birthdate": "1992-07-11",
          "nationality": "Egypt",
@@ -201,12 +201,12 @@
          "last_name": "Kolašinac",
          "position": "Defender",
          "birthdate": "1993-06-20",
-         "nationality": "Germany",
+         "nationality": "Bosnia and Herzegovina",
          "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111457.png",
          "on_loan": true,
-         "first_team": true,
-         "flag": "🇩🇪"
+         "first_team": false,
+         "flag": "🇧🇦"
       },
       {
          "id": 7787,

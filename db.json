@@ -371,10 +371,10 @@
          "position": "Defender",
          "birthdate": "2001-03-24",
          "nationality": "France",
-         "shirt_number": 4,
+         "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p462424.png",
-         "on_loan": false,
-         "first_team": true,
+         "on_loan": true,
+         "first_team": false,
          "flag": "🇫🇷"
       },
       {

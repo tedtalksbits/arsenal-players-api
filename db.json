@@ -118,19 +118,6 @@
          "flag": "🇪🇸"
       },
       {
-         "id": 7779,
-         "first_name": "Matt",
-         "last_name": "Macey",
-         "position": "Goalkeeper",
-         "birthdate": "1994-09-09",
-         "nationality": "England",
-         "shirt_number": 33,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p113534.png",
-         "on_loan": false,
-         "first_team": true,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
          "id": 7783,
          "first_name": "Héctor",
          "last_name": "Bellerín",
@@ -155,19 +142,6 @@
          "on_loan": false,
          "first_team": true,
          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
-      },
-      {
-         "id": 7785,
-         "first_name": "Shkodran",
-         "last_name": "Mustafi",
-         "position": "Defender",
-         "birthdate": "1992-04-17",
-         "nationality": "Germany",
-         "shirt_number": 20,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p69140.png",
-         "on_loan": false,
-         "first_team": true,
-         "flag": "🇩🇪"
       },
       {
          "id": 7786,

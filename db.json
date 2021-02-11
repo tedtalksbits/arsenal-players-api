@@ -440,10 +440,10 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p131897.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧"
+         "flag": "󠁧🇦🇺"
       },
       {
-         "id": 0000011,
+         "id": 1324201,
          "first_name": "Martin",
          "last_name": "Ødegaard",
          "position": "Midfielder",
@@ -453,7 +453,7 @@
          "player_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsortitoutsi.net%2Fuploads%2Fimages%2FbNWYw0LJ0ndxIKjH3DZBtY445sk8DgVn.png&f=1&nofb=1",
          "on_loan": true,
          "first_team": true,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧"
+         "flag": "󠁧󠁢󠁥󠁮󠁧🇳🇴"
       }
    ]
 }

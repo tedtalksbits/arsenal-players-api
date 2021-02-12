@@ -144,19 +144,6 @@
          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
-         "id": 7786,
-         "first_name": "Sead",
-         "last_name": "Kolašinac",
-         "position": "Defender",
-         "birthdate": "1993-06-20",
-         "nationality": "Bosnia and Herzegovina",
-         "shirt_number": null,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111457.png",
-         "on_loan": true,
-         "first_team": false,
-         "flag": "🇧🇦"
-      },
-      {
          "id": 7787,
          "first_name": "Calum",
          "last_name": "Chambers",

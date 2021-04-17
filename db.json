@@ -11,7 +11,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p182539.png",
          "on_loan": true,
          "first_team": true,
-         "flag": "🇪🇸"
+         "flag": "🇪🇸",
+         "loan_team": null
       },
       {
          "id": 110,
@@ -24,7 +25,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p167199.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇬🇭"
+         "flag": "🇬🇭",
+         "loan_team": null
       },
       {
          "id": 3174,
@@ -37,7 +39,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p80201.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇩🇪"
+         "flag": "🇩🇪",
+         "loan_team": null
       },
       {
          "id": 3230,
@@ -50,7 +53,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p47431.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇧🇷"
+         "flag": "🇧🇷",
+         "loan_team": null
       },
       {
          "id": 3244,
@@ -63,7 +67,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p58822.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇵🇹"
+         "flag": "🇵🇹",
+         "loan_team": null
       },
       {
          "id": 3477,
@@ -76,7 +81,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p84450.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇨🇭"
+         "flag": "🇨🇭",
+         "loan_team": null
       },
       {
          "id": 3755,
@@ -89,7 +95,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p153256.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇪🇬"
+         "flag": "🇪🇬",
+         "loan_team": null
       },
       {
          "id": 3827,
@@ -102,7 +109,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p115918.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇮🇸"
+         "flag": "🇮🇸",
+         "loan_team": null
       },
       {
          "id": 7647,
@@ -115,7 +123,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p92371.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇪🇸"
+         "flag": "🇪🇸",
+         "loan_team": null
       },
       {
          "id": 7783,
@@ -128,7 +137,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p98745.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇪🇸"
+         "flag": "🇪🇸",
+         "loan_team": null
       },
       {
          "id": 7784,
@@ -141,7 +151,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p156074.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": null
       },
       {
          "id": 7787,
@@ -154,7 +165,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p101184.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": null
       },
       {
          "id": 7792,
@@ -167,7 +179,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p154043.png",
          "on_loan": true,
          "first_team": false,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": "West Brom 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 7797,
@@ -180,7 +193,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p59966.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇫🇷"
+         "flag": "🇫🇷",
+         "loan_team": null
       },
       {
          "id": 7798,
@@ -193,7 +207,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200089.png",
          "on_loan": true,
          "first_team": false,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": "Newcastle United 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 7799,
@@ -206,7 +221,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200641.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": null
       },
       {
          "id": 7800,
@@ -219,7 +235,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p205533.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": null
       },
       {
          "id": 7801,
@@ -232,7 +249,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p54694.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇬🇦"
+         "flag": "🇬🇦",
+         "loan_team": null
       },
       {
          "id": 7805,
@@ -245,7 +263,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p41270.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇧🇷"
+         "flag": "🇧🇷",
+         "loan_team": null
       },
       {
          "id": 8412,
@@ -258,7 +277,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p195735.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇨🇮"
+         "flag": "🇨🇮",
+         "loan_team": null
       },
       {
          "id": 15615,
@@ -271,7 +291,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p192895.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+         "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+         "loan_team": null
       },
       {
          "id": 23128,
@@ -284,7 +305,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p226597.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇧🇷"
+         "flag": "🇧🇷",
+         "loan_team": null
       },
       {
          "id": 61450,
@@ -297,7 +319,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444145.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇧🇷"
+         "flag": "🇧🇷",
+         "loan_team": null
       },
       {
          "id": 80171,
@@ -310,7 +333,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p462424.png",
          "on_loan": true,
          "first_team": false,
-         "flag": "🇫🇷"
+         "flag": "🇫🇷",
+         "loan_team": null
       },
       {
          "id": 85570,
@@ -323,7 +347,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209289.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": null
       },
       {
          "id": 99813,
@@ -336,7 +361,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223340.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": null
       },
       {
          "id": 131040,
@@ -349,7 +375,8 @@
          "player_image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Balogun_1045x658_0.jpg?itok=5sG1axL9",
          "on_loan": false,
          "first_team": false,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": null
       },
       {
          "id": 153843,
@@ -362,7 +389,8 @@
          "player_image": "null",
          "on_loan": false,
          "first_team": false,
-         "flag": "🇪🇪"
+         "flag": "🇪🇪",
+         "loan_team": null
       },
       {
          "id": 223003,
@@ -375,7 +403,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p439482.png",
          "on_loan": false,
          "first_team": false,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": null
       },
       {
          "id": 2299903,
@@ -388,7 +417,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p235425.png",
          "on_loan": false,
          "first_team": false,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": null
       },
       {
          "id": 3039933,
@@ -401,7 +431,8 @@
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p131897.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "󠁧🇦🇺"
+         "flag": "󠁧🇦🇺",
+         "loan_team": null
       },
       {
          "id": 1324201,
@@ -414,7 +445,8 @@
          "player_image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsortitoutsi.net%2Fuploads%2Fimages%2FbNWYw0LJ0ndxIKjH3DZBtY445sk8DgVn.png&f=1&nofb=1",
          "on_loan": true,
          "first_team": true,
-         "flag": "󠁧󠁢󠁥󠁮󠁧🇳🇴"
+         "flag": "󠁧󠁢󠁥󠁮󠁧🇳🇴",
+         "loan_team": null
       }
    ]
 }

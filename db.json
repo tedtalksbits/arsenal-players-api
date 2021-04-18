@@ -12,7 +12,7 @@
          "on_loan": true,
          "first_team": true,
          "flag": "🇪🇸",
-         "loan_team": null
+         "loan_team": "Real Madrid 🇪🇸"
       },
       {
          "id": 110,
@@ -429,10 +429,10 @@
          "nationality": "Austrailia",
          "shirt_number": 33,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p131897.png",
-         "on_loan": false,
+         "on_loan": true,
          "first_team": true,
          "flag": "󠁧🇦🇺",
-         "loan_team": null
+         "loan_team": "Brighton FC 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 1324201,
@@ -446,7 +446,7 @@
          "on_loan": true,
          "first_team": true,
          "flag": "󠁧󠁢󠁥󠁮󠁧🇳🇴",
-         "loan_team": null
+         "loan_team": "Real Madrid 🇪🇸"
       }
    ]
 }

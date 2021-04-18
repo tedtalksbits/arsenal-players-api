@@ -371,7 +371,7 @@
          "position": "Forward",
          "birthdate": "2001-07-03",
          "nationality": "England",
-         "shirt_number": null,
+         "shirt_number": 38,
          "player_image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Balogun_1045x658_0.jpg?itok=5sG1axL9",
          "on_loan": false,
          "first_team": false,

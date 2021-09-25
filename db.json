@@ -6,13 +6,13 @@
          "last_name": "Kolasinac",
          "position": "Defender",
          "birthdate": "1993-06-20",
-         "nationality": "Spain",
+         "nationality": "Bosnia & Herzegovina",
          "shirt_number": 31,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p182539.png",
-         "on_loan": true,
+         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111457.png",
+         "on_loan": false,
          "first_team": true,
-         "flag": "🇪🇸",
-         "loan_team": "Real Madrid 🇪🇸"
+         "flag": "🇧🇦",
+         "loan_team": ""
       },
       {
          "id": 110,

@@ -99,20 +99,6 @@
          "loan_team": null
       },
       {
-         "id": 3827,
-         "first_name": "Rúnar Alex",
-         "last_name": "Rúnarsson",
-         "position": "Goalkeeper",
-         "birthdate": "1995-02-18",
-         "nationality": "Iceland",
-         "shirt_number": 13,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p115918.png",
-         "on_loan": true,
-         "first_team": false,
-         "flag": "🇮🇸",
-         "loan_team": null
-      },
-      {
          "id": 7647,
          "first_name": "Pablo",
          "last_name": "Marí",

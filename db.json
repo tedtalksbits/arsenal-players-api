@@ -119,7 +119,7 @@
          "position": "Defender",
          "birthdate": "1995-03-19",
          "nationality": "Spain",
-         "shirt_number": 2,
+         "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p98745.png",
          "on_loan": true,
          "first_team": true,

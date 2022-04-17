@@ -1,20 +1,6 @@
 {
    "players": [
       {
-         "id": 68,
-         "first_name": "Sead",
-         "last_name": "Kolasinac",
-         "position": "Defender",
-         "birthdate": "1993-06-20",
-         "nationality": "Bosnia & Herzegovina",
-         "shirt_number": 31,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111457.png",
-         "on_loan": false,
-         "first_team": true,
-         "flag": "🇧🇦",
-         "loan_team": ""
-      },
-      {
          "id": 110,
          "first_name": "Thomas",
          "last_name": "Partey",
@@ -29,6 +15,34 @@
          "loan_team": null
       },
       {
+         "id": 11330,
+         "first_name": "Lucas",
+         "last_name": "Torreira",
+         "position": "Midfielder",
+         "birthdate": "1996-02-11",
+         "nationality": "Uruguay",
+         "shirt_number": 11,
+         "player_image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Torreira_1100x693.jpg?itok=wrlRxMMs",
+         "on_loan": true,
+         "first_team": false,
+         "flag": "🇺🇾",
+         "loan_team": "Fiorentina"
+      },
+      {
+         "id": 112230,
+         "first_name": "Matteo",
+         "last_name": "Guendouzi",
+         "position": "Midfielder",
+         "birthdate": "1999-04-14",
+         "nationality": "France",
+         "shirt_number": 29,
+         "player_image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Guendouzi_1100x693.jpg?itok=baJmFmut",
+         "on_loan": true,
+         "first_team": false,
+         "flag": "🇫🇷",
+         "loan_team": "Marseille"
+      },
+      {
          "id": 3174,
          "first_name": "Bernd",
          "last_name": "Leno",
@@ -40,6 +54,20 @@
          "on_loan": false,
          "first_team": true,
          "flag": "🇩🇪",
+         "loan_team": null
+      },
+      {
+         "id": 3198474,
+         "first_name": "Pablo",
+         "last_name": "Marí",
+         "position": "Defender",
+         "birthdate": "1992-03-04",
+         "nationality": "Spain",
+         "shirt_number": 22,
+         "player_image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Mari_1100x693.jpg?itok=7raVDBRB",
+         "on_loan": true,
+         "first_team": false,
+         "flag": "🇪🇸",
          "loan_team": null
       },
       {
@@ -99,6 +127,20 @@
          "loan_team": null
       },
       {
+         "id": 3755,
+         "first_name": "Martin",
+         "last_name": "Odegaard",
+         "position": "Midfielder",
+         "birthdate": "1998-12-117",
+         "nationality": "Norway",
+         "shirt_number": 8,
+         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184029.png",
+         "on_loan": false,
+         "first_team": true,
+         "flag": "🇳🇴",
+         "loan_team": null
+      },
+      {
          "id": 7647,
          "first_name": "Pablo",
          "last_name": "Marí",
@@ -122,7 +164,7 @@
          "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p98745.png",
          "on_loan": true,
-         "first_team": true,
+         "first_team": false,
          "flag": "🇪🇸",
          "loan_team": "Real Betis"
       },
@@ -163,10 +205,10 @@
          "nationality": "England",
          "shirt_number": 15,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p154043.png",
-         "on_loan": false,
-         "first_team": true,
+         "on_loan": true,
+         "first_team": false,
          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-         "loan_team": ""
+         "loan_team": "Roma"
       },
       {
          "id": 7797,
@@ -208,7 +250,7 @@
          "on_loan": true,
          "first_team": false,
          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-         "loan_team": null
+         "loan_team": "Feyenoord"
       },
       {
          "id": 7800,
@@ -222,20 +264,6 @@
          "on_loan": false,
          "first_team": true,
          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-         "loan_team": null
-      },
-      {
-         "id": 7801,
-         "first_name": "Pierre-Emerick",
-         "last_name": "Aubameyang",
-         "position": "Forward",
-         "birthdate": "1989-06-18",
-         "nationality": "Gabon",
-         "shirt_number": 14,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p54694.png",
-         "on_loan": false,
-         "first_team": true,
-         "flag": "🇬🇦",
          "loan_team": null
       },
       {
@@ -359,8 +387,8 @@
          "nationality": "England",
          "shirt_number": 26,
          "player_image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Balogun_1045x658_0.jpg?itok=5sG1axL9",
-         "on_loan": false,
-         "first_team": true,
+         "on_loan": true,
+         "first_team": false,
          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
          "loan_team": null
       },

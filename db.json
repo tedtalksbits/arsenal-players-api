@@ -15,7 +15,22 @@
          "loan_team": null
       },
       {
-         "id": 11330,
+         "id": 110988730,
+         "first_name": "Author",
+         "last_name": "Okonkwo",
+         "position": "Goalkeeper",
+         "birthdate": "2001-09-09",
+         "nationality": "England",
+         "shirt_number": 33,
+         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220682.png",
+         "on_loan": false,
+         "first_team": true,
+         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "loan_team": null
+      },
+     
+      {
+         "id": 34330,
          "first_name": "Lucas",
          "last_name": "Torreira",
          "position": "Midfielder",
@@ -29,18 +44,18 @@
          "loan_team": "Fiorentina"
       },
       {
-         "id": 112230,
-         "first_name": "Matteo",
-         "last_name": "Guendouzi",
+         "id": 11330,
+         "first_name": "Matt",
+         "last_name": "Turner",
          "position": "Midfielder",
-         "birthdate": "1999-04-14",
-         "nationality": "France",
-         "shirt_number": 29,
-         "player_image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Guendouzi_1100x693.jpg?itok=baJmFmut",
-         "on_loan": true,
-         "first_team": false,
-         "flag": "🇫🇷",
-         "loan_team": "Marseille"
+         "birthdate": "1996-02-11",
+         "nationality": "United States",
+         "shirt_number": 30,
+         "player_image": "",
+         "on_loan": false,
+         "first_team": true,
+         "flag": "🇺🇸",
+         "loan_team": null
       },
       {
          "id": 3174,
@@ -63,9 +78,9 @@
          "position": "Defender",
          "birthdate": "1992-03-04",
          "nationality": "Spain",
-         "shirt_number": 22,
-         "player_image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Mari_1100x693.jpg?itok=7raVDBRB",
-         "on_loan": true,
+         "shirt_number": null,
+         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p92371.png",
+         "on_loan": false,
          "first_team": false,
          "flag": "🇪🇸",
          "loan_team": null
@@ -131,27 +146,13 @@
          "first_name": "Martin",
          "last_name": "Odegaard",
          "position": "Midfielder",
-         "birthdate": "1998-12-117",
+         "birthdate": "1998-12-17",
          "nationality": "Norway",
          "shirt_number": 8,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184029.png",
          "on_loan": false,
          "first_team": true,
          "flag": "🇳🇴",
-         "loan_team": null
-      },
-      {
-         "id": 7647,
-         "first_name": "Pablo",
-         "last_name": "Marí",
-         "position": "Defender",
-         "birthdate": "1993-08-31",
-         "nationality": "Spain",
-         "shirt_number": 22,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p92371.png",
-         "on_loan": false,
-         "first_team": true,
-         "flag": "🇪🇸",
          "loan_team": null
       },
       {
@@ -163,10 +164,10 @@
          "nationality": "Spain",
          "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p98745.png",
-         "on_loan": true,
-         "first_team": false,
+         "on_loan": false,
+         "first_team": true,
          "flag": "🇪🇸",
-         "loan_team": "Real Betis"
+         "loan_team": ""
       },
       {
          "id": 7784,
@@ -184,16 +185,16 @@
       },
       {
          "id": 7787,
-         "first_name": "Calum",
-         "last_name": "Chambers",
-         "position": "Defender",
-         "birthdate": "1995-01-20",
-         "nationality": "England",
+         "first_name": "Fábio",
+         "last_name": "Vieira",
+         "position": "Midfielder",
+         "birthdate": "2000-05-30",
+         "nationality": "Portugal",
          "shirt_number": 21,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p101184.png",
+         "player_image": "",
          "on_loan": false,
          "first_team": true,
-         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "flag": "🇵🇹",
          "loan_team": null
       },
       {
@@ -203,7 +204,7 @@
          "position": "Midfielder",
          "birthdate": "1997-08-29",
          "nationality": "England",
-         "shirt_number": 15,
+         "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p154043.png",
          "on_loan": true,
          "first_team": false,
@@ -212,16 +213,16 @@
       },
       {
          "id": 7797,
-         "first_name": "Alexandre",
-         "last_name": "Lacazette",
+         "first_name": "Gabriel",
+         "last_name": "Jesus",
          "position": "Forward",
-         "birthdate": "1991-05-28",
-         "nationality": "France",
+         "birthdate": "1997-04-03",
+         "nationality": "Brazil",
          "shirt_number": 9,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p59966.png",
+         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p205651.png",
          "on_loan": false,
          "first_team": true,
-         "flag": "🇫🇷",
+         "flag": "🇧🇷",
          "loan_team": null
       },
       {
@@ -247,10 +248,10 @@
          "nationality": "England",
          "shirt_number": 24,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200641.png",
-         "on_loan": true,
-         "first_team": false,
+         "on_loan": false,
+         "first_team": true,
          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-         "loan_team": "Feyenoord"
+         "loan_team": null
       },
       {
          "id": 7800,
@@ -259,7 +260,7 @@
          "position": "Forward",
          "birthdate": "1999-05-30",
          "nationality": "England",
-         "shirt_number": 30,
+         "shirt_number": 14,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p205533.png",
          "on_loan": false,
          "first_team": true,
@@ -329,7 +330,7 @@
          "position": "Forward",
          "birthdate": "2001-06-18",
          "nationality": "Brazil",
-         "shirt_number": 35,
+         "shirt_number": 11,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444145.png",
          "on_loan": false,
          "first_team": true,
@@ -345,10 +346,10 @@
          "nationality": "France",
          "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p462424.png",
-         "on_loan": true,
-         "first_team": false,
+         "on_loan": false,
+         "first_team": true,
          "flag": "🇫🇷",
-         "loan_team": "Marseille 🇫🇷"
+         "loan_team": null
       },
       {
          "id": 85570,
@@ -386,8 +387,8 @@
          "birthdate": "2001-07-03",
          "nationality": "England",
          "shirt_number": 26,
-         "player_image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Balogun_1045x658_0.jpg?itok=5sG1axL9",
-         "on_loan": true,
+         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232223.png",
+         "on_loan": false,
          "first_team": false,
          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
          "loan_team": null
@@ -449,18 +450,20 @@
          "loan_team": ""
       },
       {
-         "id": 1324201,
-         "first_name": "Arthur",
-         "last_name": "Okonkwo",
-         "position": "Goal Keeper",
-         "birthdate": "2001-9-9",
-         "nationality": "England",
-         "shirt_number": 33,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220682.png",
+         "id": 333444,
+         "first_name": "",
+         "last_name": "Marquinhos",
+         "position": "Forward",
+         "birthdate": "2003-04-07",
+         "nationality": "Brazil",
+         "shirt_number": 4,
+         "player_image": "",
          "on_loan": false,
-         "first_team": false,
-         "flag": "󠁧󠁢󠁥󠁮󠁧🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+         "first_team": true,
+         "flag": "󠁧🇧🇷",
          "loan_team": ""
       }
+      
+
    ]
 }

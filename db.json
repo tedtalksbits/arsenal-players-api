@@ -67,10 +67,10 @@
          "nationality": "Uruguay",
          "shirt_number": null,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p198849.png",
-         "on_loan": true,
-         "first_team": false,
+         "on_loan": false,
+         "first_team": true,
          "flag": "🇺🇾",
-         "loan_team": "Fiorentina"
+         "loan_team": null
       },
       {
          "id": 30,

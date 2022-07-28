@@ -36,7 +36,8 @@
          "position": "Defender",
          "birthdate": "1996-12-15",
          "nationality": "Ukraine",
-         "shirt_number": 97,
+         "shirt_number": 35
+         ,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p206325.png",
          "on_loan": false,
          "first_team": true,
@@ -458,7 +459,7 @@
          "birthdate": "2003-04-07",
          "nationality": "Brazil",
          "shirt_number": 27,
-         "player_image": "",
+         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/Photo-Missing.png",
          "on_loan": false,
          "first_team": true,
          "flag": "󠁧🇧🇷",

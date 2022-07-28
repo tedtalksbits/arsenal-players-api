@@ -479,6 +479,7 @@
               "id": 127
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Vitality Stadium",
@@ -516,6 +517,7 @@
               "id": 1
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Emirates Stadium",
@@ -558,6 +560,7 @@
               "id": 2
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Villa Park",
@@ -592,6 +595,7 @@
               "id": 30
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Oakwell",
@@ -621,6 +625,7 @@
               "id": 35
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "St. Andrew's Trillion Trophy Stadium",
@@ -648,6 +653,7 @@
               "id": 3
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Ewood Park",
@@ -677,6 +683,7 @@
               "id": 44
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Bloomfield Road",
@@ -706,6 +713,7 @@
               "id": 27
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "University of Bolton Stadium",
@@ -739,6 +747,7 @@
               "id": 32
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Valley Parade",
@@ -768,6 +777,7 @@
               "id": 130
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Brentford Community Stadium",
@@ -797,6 +807,7 @@
               "id": 131
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Amex Stadium",
@@ -834,6 +845,7 @@
               "id": 43
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Turf Moor",
@@ -871,6 +883,7 @@
               "id": 46
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Cardiff City Stadium",
@@ -907,6 +920,7 @@
               "id": 31
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "The Valley",
@@ -936,6 +950,7 @@
               "id": 4
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Stamford Bridge",
@@ -971,6 +986,7 @@
               "id": 5
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Highfield Road",
@@ -995,6 +1011,7 @@
               "id": 6
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Selhurst Park",
@@ -1032,6 +1049,7 @@
               "id": 28
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Pride Park Stadium",
@@ -1066,6 +1084,7 @@
               "id": 7
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Goodison Park",
@@ -1101,6 +1120,7 @@
               "id": 34
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Craven Cottage",
@@ -1147,6 +1167,7 @@
               "id": 159
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "John Smith's Stadium",
@@ -1182,6 +1203,7 @@
               "id": 41
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "KCOM Stadium",
@@ -1218,6 +1240,7 @@
               "id": 8
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Portman Road",
@@ -1247,6 +1270,7 @@
               "id": 9
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Elland Road",
@@ -1280,6 +1304,7 @@
               "id": 26
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "King Power Stadium",
@@ -1322,6 +1347,7 @@
               "id": 10
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Anfield",
@@ -1358,6 +1384,7 @@
               "id": 11
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Etihad Stadium",
@@ -1399,6 +1426,7 @@
               "id": 12
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Old Trafford",
@@ -1437,6 +1465,7 @@
               "id": 13
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Riverside Stadium",
@@ -1478,6 +1507,7 @@
               "id": 23
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "St. James' Park",
@@ -1515,6 +1545,7 @@
               "id": 14
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Carrow Road",
@@ -1549,6 +1580,7 @@
               "id": 15
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "The City Ground",
@@ -1584,6 +1616,7 @@
               "id": 16
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Boundary Park",
@@ -1613,6 +1646,7 @@
               "id": 37
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Fratton Park",
@@ -1642,6 +1676,7 @@
               "id": 17
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Loftus Road",
@@ -1671,6 +1706,7 @@
               "id": 40
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Madejski Stadium",
@@ -1700,6 +1736,7 @@
               "id": 18
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Bramall Lane",
@@ -1734,6 +1771,7 @@
               "id": 19
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Hillsborough",
@@ -1763,6 +1801,7 @@
               "id": 20
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "St. Mary's Stadium",
@@ -1806,6 +1845,7 @@
               "id": 42
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "bet365 Stadium",
@@ -1841,6 +1881,7 @@
               "id": 29
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Stadium of Light",
@@ -1884,6 +1925,7 @@
               "id": 45
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Liberty Stadium",
@@ -1919,6 +1961,7 @@
               "id": 24
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "County Ground",
@@ -1948,6 +1991,7 @@
               "id": 21
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Tottenham Hotspur Stadium",
@@ -2000,6 +2044,7 @@
               "id": 33
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Vicarage Road",
@@ -2036,6 +2081,7 @@
               "id": 36
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "The Hawthorns",
@@ -2073,6 +2119,7 @@
               "id": 25
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "London Stadium",
@@ -2116,6 +2163,7 @@
               "id": 39
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "DW Stadium",
@@ -2145,6 +2193,7 @@
               "id": 22
           },
           "teamType": "FIRST",
+          "premierLeague": false,
           "grounds": [
               {
                   "name": "Selhurst Park",
@@ -2174,6 +2223,7 @@
               "id": 38
           },
           "teamType": "FIRST",
+          "premierLeague": true,
           "grounds": [
               {
                   "name": "Molineux Stadium",

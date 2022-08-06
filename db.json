@@ -53,25 +53,10 @@
          "nationality": "England",
          "shirt_number": 33,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220682.png",
-         "on_loan": false,
-         "first_team": true,
+         "on_loan": true,
+         "first_team": false,
          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-         "loan_team": null
-      },
-     
-      {
-         "id": 1111,
-         "first_name": "Lucas",
-         "last_name": "Torreira",
-         "position": "Midfielder",
-         "birthdate": "1996-02-11",
-         "nationality": "Uruguay",
-         "shirt_number": null,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p198849.png",
-         "on_loan": false,
-         "first_team": true,
-         "flag": "🇺🇾",
-         "loan_team": null
+         "loan_team": "Crew Alexandra F.C.🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       },
       {
          "id": 30,
@@ -85,20 +70,6 @@
          "on_loan": false,
          "first_team": true,
          "flag": "🇺🇸",
-         "loan_team": null
-      },
-      {
-         "id": 1,
-         "first_name": "Bernd",
-         "last_name": "Leno",
-         "position": "Goalkeeper",
-         "birthdate": "1992-03-04",
-         "nationality": "Germany",
-         "shirt_number": 1,
-         "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p80201.png",
-         "on_loan": false,
-         "first_team": true,
-         "flag": "🇩🇪",
          "loan_team": null
       },
       {
@@ -116,13 +87,13 @@
          "loan_team": null
       },
       {
-         "id": 32,
+         "id": 1,
          "first_name": "Aaron",
          "last_name": "Ramsdale",
          "position": "Goalkeeper",
          "birthdate": "1998-05-14",
          "nationality": "England",
-         "shirt_number": 32,
+         "shirt_number": 1,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p225321.png",
          "on_loan": false,
          "first_team": true,
@@ -306,10 +277,10 @@
          "nationality": "Portugual",
          "shirt_number": 20,
          "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p437626.png",
-         "on_loan": false,
-         "first_team": true,
+         "on_loan": true,
+         "first_team": false,
          "flag": "🇵🇹",
-         "loan_team": null
+         "loan_team": "Oly"
       },
       {
          "id": 19,
@@ -323,7 +294,7 @@
          "on_loan": false,
          "first_team": true,
          "flag": "🇨🇮",
-         "loan_team": null
+         "loan_team": "Olympique de Marseille 🇫🇷"
       },
       {
          "id": 3,
